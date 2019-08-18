@@ -16,6 +16,8 @@ void setup()
   pinMode(enb,OUTPUT);
   pinMode(in3,OUTPUT);
   pinMode(in4,OUTPUT);
+  pinMode(trigpin,OUTPUT);
+  pinMode(echopin,INPUT);
 
 }
 
